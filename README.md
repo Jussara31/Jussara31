@@ -5,6 +5,7 @@
 ## Quem sou eu?
 
 *👩🏽 📈 👩🏽‍🎓Estudante em Data Science (FLAI - Inteligência Artificial)
+
 *👩🏽 🎓 Bacharel em Administração de Empresas (UNINASSAU)
 
 
