@@ -1,6 +1,6 @@
 ### **Olá, Eu sou Jussara**  👩🏽 👩🏽‍💻
 ###
-
+![GitHub Logo] (WhatsApp Image 2022-02-17 at 22.21.40.jpeg)
 
 ## Quem sou eu?
 
