@@ -17,7 +17,8 @@
 * 👩🏽 💻 📱 📞🎙Comunicativa
 * 👩🏽 🧑🏿 👩‍🦱 🧔🏻 👧Trabalho em Equipe
 * 👩🏽 🤔 🤔  Analitica
-
+Rciocinio Lógico
+Organizada
 ## Como me achar?
 
 * [Linkedin] ( https://www.linkedin.com/in/jussara-silva31/)
