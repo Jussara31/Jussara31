@@ -13,12 +13,24 @@
 
 ## Soft Skills? 👩🏽 👩🏽‍💻
 
-* 👩🏽 💻 📱 📚 Aprendizado Constante
-* 👩🏽 💻 📱 📞🎙Comunicativa
-* 👩🏽 🧑🏿 👩‍🦱 🧔🏻 👧Trabalho em Equipe
-* 👩🏽 🤔 🤔  Analitica
-Rciocinio Lógico
-Organizada
+* 👩🏽  Aprendizado Constante
+* 👩🏽  Comunicativa
+* 👩🏽  Trabalho em Equipe
+* 👩🏽  Analitica
+* 👩🏽  Rciocinio Lógico
+* 👩🏽  Organizada
+
+## Hard Skills? 👩🏽 👩🏽‍💻
+*Análise Dados
+*Power BI (Dashboards, Relação (Modelagem, Dados temporais, DAX, M, ETL) 
+*Excel (Intermediário)
+*Inglês (Básico)
+
+###
+
+Habilidades em aprendizado: Linguação de Programação Phyton, R, assim como SQL, Modelos de Marchine Learning.
+
+          
 ## Como me achar?
 
 * [Linkedin] ( https://www.linkedin.com/in/jussara-silva31/)
