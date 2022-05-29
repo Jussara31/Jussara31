@@ -1,7 +1,7 @@
 ### **Olá, Eu sou Jussara**  👩🏽 👩🏽‍💻
 ###
 
-
+<img src="https://raw.githubusercontent.com/Jussara31/Jussara31/main/jussara1.png"  width="100"/>
 
 
 ## Quem sou eu?
