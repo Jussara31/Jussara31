@@ -22,10 +22,10 @@
 
 ## Hard Skills? 👩🏽 👩🏽‍💻
 
-*Análise Dados
-*Power BI (Dashboards, Relação (Modelagem, Dados temporais, DAX, M, ETL) 
-*Excel (Intermediário)
-*Inglês (Básico)
+* Análise Dados
+* Power BI (Dashboards, Relação (Modelagem, Dados temporais, DAX, M, ETL) 
+* Excel (Intermediário)
+* Inglês (Básico)
 
 ###
 
