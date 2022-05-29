@@ -34,10 +34,10 @@ Habilidades em aprendizado: Linguação de Programação Phyton, R, assim como S
           
 ## Como me achar?
 
-* [Linkedin] ( https://www.linkedin.com/in/jussara-silva31/)
+* [Linkedin]( https://www.linkedin.com/in/jussara-silva31/)
 
 ## **Meus Projetos**
 
-* [Vizualização de Dados] (https://github.com/Jussara31/Vizualiza-o-de-Dados)
+* [Vizualização de Dados](https://github.com/Jussara31/Vizualiza-o-de-Dados)
 
 -->
