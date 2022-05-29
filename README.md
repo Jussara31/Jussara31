@@ -1,6 +1,6 @@
 ### **Olá, Eu sou Jussara**  👩🏽 👩🏽‍💻
 ###
-! [GitHub Logo]()
+! [GitHub Logo](jussara1.png)
 
 
 
